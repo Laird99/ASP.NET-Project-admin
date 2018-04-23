@@ -1,0 +1,113 @@
+﻿.content {
+    height: 150%;
+}
+
+body {
+    background-color: white;
+}
+
+p {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-style: italic;
+}
+
+    p.info {
+        text-align: left;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 24px;
+        font-style: italic;
+        margin-left: 50px;
+    }
+
+.add {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-style: italic;
+    display:inline;
+    text-align:right;
+}
+
+.tb {
+    margin-left:25px;
+}
+
+
+footer {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+
+#nav {
+    margin: -16px;
+    background-color: black;
+    height: 75px;
+}
+
+#items {
+    margin-left: 150px;
+}
+
+h2 {
+    font-family: 'Arial Rounded MT';
+    text-decoration: dotted;
+    margin-left: 100px;
+}
+
+
+ul li {
+    padding: 25px;
+    list-style-type: none;
+    width: auto;
+    float: left;
+}
+
+ul.button {
+    align-content: space-between;
+}
+
+login {
+    width: auto;
+}
+
+.LinkButtons {
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    background: #f1f1f1;
+    padding: 25px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+    color: #000;
+    font-weight: bold;
+    width: 250px;
+    margin-left: 250px;
+    text-decoration: none;
+}
+
+a.nav {
+    display: inline;
+    text-align: center;
+    text-transform: uppercase;
+    color: silver;
+    text-decoration: none;
+    margin: 15px;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+li a.nav:hover {
+    color: darkorange;
+    text-decoration: none;
+}
+
+.LinkButtons:hover {
+    color: royalblue;
+    background-color: white;
+    text-decoration: none;
+}

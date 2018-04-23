@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CDList">
+  <DataContextMoniker Name="/CDListDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e4bfdd85-0404-4608-a9ca-60da71ae47ed" absoluteBounds="5, 2, 2, 1.9631982421875">
+      <DataClassMoniker Name="/CDListDataContext/CD" />
+      <nestedChildShapes>
+        <elementListCompartment Id="30239cd1-2204-4c92-929e-cf66ab9588aa" absoluteBounds="5.015, 2.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
